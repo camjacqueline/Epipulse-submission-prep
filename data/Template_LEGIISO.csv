@@ -1,0 +1,2 @@
+Disease,HealthTopic,ReportingCountry,Status,SubjectCode,NationalRecordId,NationalClusterId,DataSource,DateUsedForStatistics,CaseId,AgeGroup,Gender,Imported,PlaceOfInfection,ItemCode,DateOfSampling,DateOfReceiptSourceLab,DateOfReceiptReferenceLab,SampleOrigin,SampleMaterialEnvironmental,PlaceOfSampling,SamplingSite,SampleWaterTemperature,CfU,SettingEnvironmental,SettingClinical,CountryOfExposure,Serogroup,MonoclonalSubtype,WgsProtocol,WgsAccession,WgsAssembler,WgsAssembly,WgsRawReads,SequenceType
+LEGI,ISO,,,LEGIISO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
