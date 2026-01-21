@@ -1,0 +1,7 @@
+Disease;HealthTopic;ReportingCountry;Status;SubjectCode;NationalRecordId;DataSource;DateUsedForStatistics;CaseId;AgeGroup;Gender;Imported;PlaceOfInfection;ItemCode;DateOfSampling;DateOfReceiptSourceLab;DateOfReceiptReferenceLab;SampleOrigin;SampleMaterialEnvironmental;PlaceOfSampling;SamplingSite;SampleWaterTemperature;CfU;SettingEnvironmental;SettingClinical;CountryOfExposure;Serogroup;MonoclonalSubtype;WgsProtocol;WgsAccession;WgsAssembler;WgsAssembly;WgsRawReads;SequenceType
+LEGI;ISO;FR;;LEGIISO;25014159301;FR-LEGIISO;22/01/2025;;Age80+;M;;;;;;;HUMAN;;;;;;;;;LPNE_SG1;;;;;;;259
+LEGI;ISO;FR;;LEGIISO;25014162701;FR-LEGIISO;21/01/2025;;Age50_59;F;;;;;;;HUMAN;;;;;;;;;LPNE_SG1;;;;;;;23
+LEGI;ISO;FR;;LEGIISO;25016181601;FR-LEGIISO;26/01/2025;;Age60_69;F;;;;;;;HUMAN;;;;;;;;;LPNE_SG1;;;;;;;23
+LEGI;ISO;FR;;LEGIISO;25016186901;FR-LEGIISO;24/01/2025;;Age70_79;M;;;;;;;HUMAN;;;;;;;;;LPNE_SG1;;;;;;;3077
+LEGI;ISO;FR;;LEGIISO;25017122701;FR-LEGIISO;28/01/2025;;Age60_69;F;;;;;;;HUMAN;;;;;;;;;LPNE_SG1;;;;;;;259
+LEGI;ISO;FR;;LEGIISO;25018131501;FR-LEGIISO;30/01/2025;;Age60_69;F;;;;;;;HUMAN;;;;;;;;;LPNE_SG1;;;;;;;36
